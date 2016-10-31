@@ -1,0 +1,12 @@
+<div class="page">
+    <div class="content">
+        <div class="butClass">
+            <button class="btn btn-default" (click) = "show('login')">Login</button>
+            <button class="btn btn-default" on-click = "show('register')">Register</button>
+        </div>
+
+        <login [hidden] = "hidden"></login>
+        <register [hidden] = "!hidden"></register>
+    </div>
+
+</div>
