@@ -8,16 +8,4 @@ import { Component } from '@angular/core';
 })
 
 export class AuthComponent{
-    hidden : boolean;
-    show(type){
-        if(type == 'login'){
-            this.hidden = false;
-        }
-        if(type == 'register'){
-            this.hidden = true;
-        }
-    }
-    constructor(){
-        this.hidden = false;
-    }
 }

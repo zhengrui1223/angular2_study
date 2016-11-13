@@ -1,0 +1,83 @@
+import {Contact} from "./Contact";
+export const CONTACT : Contact[] = [
+    {
+        contactId : "1",
+        // firstName : "ming",
+        // middleName : "xiao",
+        // lastName : "zhang",
+        // appellationOptions : ['sir','miss','mr','mrs'],
+        // appellation : "mr",
+        customerName : "zhangxiaoming",
+        immediateSupervisor : 'Jerry',
+        job : "IT",
+        department : "SFDC",
+        email : 'zhangxiaoming@movit-tech.com',
+        telephone : "0512-6785467",
+        // faz : "010-3849944",
+        mobilePhone : "12746589987"
+        // emailStreet : "西三旗桥东",
+        // emailCity : '北京',
+        // postcode : '100096',
+        // emailCountry : '中国'
+    },
+    {
+        contactId : "2",
+        // firstName : "ming",
+        // middleName : "xiao",
+        // lastName : "zhang",
+        // appellationOptions : ['sir','miss','mr','mrs'],
+        // appellation : "mr",
+        customerName : "zhangxiaoming",
+        immediateSupervisor : 'Jerry',
+        job : "IT",
+        department : "SFDC",
+        email : 'zhangxiaoming@movit-tech.com',
+        telephone : "0512-6785467",
+        // faz : "010-3849944",
+        mobilePhone : "12746589987"
+        // emailStreet : "西三旗桥东",
+        // emailCity : '北京',
+        // postcode : '100096',
+        // emailCountry : '中国'
+    },
+    {
+        contactId : "3",
+        // firstName : "ming",
+        // middleName : "xiao",
+        // lastName : "zhang",
+        // appellationOptions : ['sir','miss','mr','mrs'],
+        // appellation : "mr",
+        customerName : "zhangxiaoming",
+        immediateSupervisor : 'Jerry',
+        job : "IT",
+        department : "SFDC",
+        email : 'zhangxiaoming@movit-tech.com',
+        telephone : "0512-6785467",
+        // faz : "010-3849944",
+        mobilePhone : "12746589987"
+        // emailStreet : "西三旗桥东",
+        // emailCity : '北京',
+        // postcode : '100096',
+        // emailCountry : '中国'
+    },
+    {
+        contactId : "4",
+        // firstName : "ming",
+        // middleName : "xiao",
+        // lastName : "zhang",
+        // appellationOptions : ['sir','miss','mr','mrs'],
+        // appellation : "mr",
+        customerName : "zhangxiaoming",
+        immediateSupervisor : 'Jerry',
+        job : "IT",
+        department : "SFDC",
+        email : 'zhangxiaoming@movit-tech.com',
+        telephone : "0512-6785467",
+        // faz : "010-3849944",
+        mobilePhone : "12746589987"
+        // emailStreet : "西三旗桥东",
+        // emailCity : '北京',
+        // postcode : '100096',
+        // emailCountry : '中国'
+    },
+]
